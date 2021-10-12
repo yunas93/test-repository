@@ -4,7 +4,5 @@ test repository commit pertama
 test repository commit pertama
 test repository commit pertama
 
-commit 2 :
-test repository commit kedua
-test repository commit kedua
-test repository commit kedua
+commit 3 :
+menghapus commit ke 2
